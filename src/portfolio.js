@@ -40,7 +40,7 @@ const socialMediaLinks = [
   // gmail: "saikrishna26031998@gmail.com",
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/sai2603/",//
+    link: "https://www.linkedin.com/in/sai2603/", //
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -218,13 +218,12 @@ const certifications = {
       alt_name: "",
       color_code: "#090921",
     },
-    
+
     {
       title: "Java Basic Certification",
       subtitle: "",
       logo_path: "hacker.png",
-      certificate_link:
-        "https://www.hackerrank.com/certificates/13ccee00889d",
+      certificate_link: "https://www.hackerrank.com/certificates/13ccee00889d",
       alt_name: "",
       color_code: "#090921",
     },
@@ -245,11 +244,11 @@ const experience = {
       experiences: [
         {
           title: "Software Engineer - FullTime",
-          company: "Accenture",
-          company_url: "https://www.accenture.com/us-en",
-          logo_path: "Accenture.png",
-          duration: "Jan 2022 - Aug 2022",
-          location: "Hyderabad, Telangana ,India",
+          company: "Cognizant",
+          company_url: "https://www.cognizant.com/us/en",
+          logo_path: "Cognizant.png",
+          duration: "August 2023 - Present",
+          location: "Remote, United States",
           description:
             "As a Java Developer worked on Amazon logistics project that involved front-end development utilizing CSS3, HTML5, and JavaScript. " +
             "The Model View Controller (MVC) architecture of the Spring Framework was utilized in the development of the application, using RESTful services to integrate and exchange the data to perform all CRUD functionalities, as well as complicated SQL queries and backend SQL procedures for the login module.",
@@ -258,17 +257,17 @@ const experience = {
         },
         {
           title: "Software Engineer - FullTime",
-          company: "Accellor",
-          company_url: "https://www.accellor.com/",
-          logo_path: "Accellor.png",
-          duration: "Dec 2020 - Dec 2021",
-          location: "Hyderabad, Telangana ,India",
+          company: "Genpact",
+          company_url: "https://www.genpact.com/",
+          logo_path: "Genpact.png",
+          duration: "November 2018 - May 2022",
+          location: "Hyderabad, India",
           description:
             "As a software engineer, I led design and development sessions, ensuring adherence to Agile principles and project objectives. Proficient in Java and front-end technologies, I optimized application performance, achieved high code coverage, and facilitated seamless user experiences through responsive web development and robust backend architecture. My expertise in debugging, testing, and continuous integration contributed to maintaining a bug-free production environment.",
           color: "#0879bf",
           responsibiletes: [],
         },
-        {
+        /*{
           title: "Software Engineer - FullTime",
           company: "Accellor",
           company_url: "https://www.accellor.com/",
@@ -279,7 +278,7 @@ const experience = {
             "As a software engineer at Acellor used the AGILE technique and Test-Driven Development (TDD) to work on the design, development, and testing phases of software development. As a Dynamics 365 developer at Acellor used the experienced in utilizing Microsoft Dynamics 365 and specializing in a virtual healthcare solution connecting practitioners and patients for seamless consultations and EMR integration and testing phases of software development.",
           ],
           color: "#9b1578",
-        },
+        },*/
       ],
     },
     {
