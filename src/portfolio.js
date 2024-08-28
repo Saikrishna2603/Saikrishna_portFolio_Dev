@@ -31,7 +31,7 @@ const greeting = {
   subTitle:
     "I'm a motivated professional who consistently finds satisfaction in developing comprehensive solutions that construct impactful, scalable, and long-lasting business solutions.",
   resumeLink:
-    "https://docs.google.com/document/d/1029v7uD2a7UYlZWLhrAjULtzUAF_-zUd/edit?usp=sharing&ouid=109423073263715850298&rtpof=true&sd=true",
+    "https://docs.google.com/document/d/1MC2hVg8CbjNhqPeq-_TvEQPEOfnvh0INvJ_IqfFnqgs/edit?usp=sharing",
 };
 
 const socialMediaLinks = [
@@ -267,18 +267,6 @@ const experience = {
           color: "#0879bf",
           responsibiletes: [],
         },
-        /*{
-          title: "Software Engineer - FullTime",
-          company: "Accellor",
-          company_url: "https://www.accellor.com/",
-          logo_path: "Accellor.png",
-          duration: "Oct 2019-Dec 2020",
-          location: "Hyderabad, Teleangana ,India",
-          description: [
-            "As a software engineer at Acellor used the AGILE technique and Test-Driven Development (TDD) to work on the design, development, and testing phases of software development. As a Dynamics 365 developer at Acellor used the experienced in utilizing Microsoft Dynamics 365 and specializing in a virtual healthcare solution connecting practitioners and patients for seamless consultations and EMR integration and testing phases of software development.",
-          ],
-          color: "#9b1578",
-        },*/
       ],
     },
     {
